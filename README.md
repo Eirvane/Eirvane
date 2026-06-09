@@ -8,4 +8,12 @@
   </p>
 </div>
 
+- <strong> As someone who is still learning, I'd love to hear your thoughts. If you know a better solution, feel free to reach out to me via email.
+
+### Link
+
+<p>
+<a href="mailto:Eirvane@qq.com">
+    <img src="https://img.shields.io/badge/QQ%20Mail-Eirvane%40qq.com-FF0000?style=flat-square&logo=qq&logoColor=white" alt="email"/>
+</a>
 
