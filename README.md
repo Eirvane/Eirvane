@@ -1,5 +1,7 @@
 <img src=".github/background.jpg" />
 
+### 向死而生的生命依然绽放，逆光而行的灵魂始终坚强
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=true&pause=100000&lines=Hi,+I'm+Eirvane,+and+I'm+a+student." alt="Hi"/> 
     <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=C98A4A&center=true&vCenter=true&width=780&pause=100000&lines=A+high+school+student+and+programming+enthusiast." alt="Current Role"/>
