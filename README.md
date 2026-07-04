@@ -21,3 +21,13 @@
     <img src="https://img.shields.io/badge/QQ%20Mail-Eirvane%40qq.com-FF0000?style=flat-square&logo=qq&logoColor=white" alt="email"/>
 </a>
 
+<div align=center>
+  
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset=".github/github-snake.svg" />
+    <img width="100%" alt="github-snake" src=".github/github-snake.svg" />
+
+</picture>
+
+</div>
