@@ -17,7 +17,7 @@
 ### Link
 
 <p>
-<a href="mailto:Eirvane@qq.com">
+<a href="mailto:Eirvane@foxmail.com">
     <img src="https://img.shields.io/badge/QQ%20Mail-Eirvane%40qq.com-FF0000?style=flat-square&logo=qq&logoColor=white" alt="email"/>
 </a>
 
